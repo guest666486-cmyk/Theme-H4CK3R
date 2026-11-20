@@ -1,0 +1,18 @@
+{
+  "name": "H4CK3R",
+  "colors": {
+    "BACKGROUND_PRIMARY": "#000000",
+    "BACKGROUND_SECONDARY": "#050505",
+    "BACKGROUND_SECONDARY_ALT": "#0a0a0a",
+    "BACKGROUND_TERTIARY": "#000000",
+    "TEXT_NORMAL": "#39ff14",
+    "TEXT_MUTED": "#1a7a00",
+    "HEADER_PRIMARY": "#39ff14",
+    "HEADER_SECONDARY": "#00cc00",
+    "INTERACTIVE_NORMAL": "#00dd00",
+    "INTERACTIVE_HOVER": "#39ff14",
+    "CHANNELS_DEFAULT": "#00aa00",
+    "BRAND_500": "#39ff14"
+  },
+  "font": "https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap"
+}
